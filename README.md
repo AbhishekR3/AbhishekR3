@@ -6,9 +6,9 @@ I'm always eager to learn new things and explore cutting-edge technologies.
 
 ## About Me
 
-- 🌐 Based in the Bay Area, but I also have strong roots in Tamil Nadu, India. US Citizen to those wondering if I need a work visa. 
+- 🌐 Based in the Bay Area, but I also have strong roots in Tamil Nadu, India. For those inquiring, I am a U.S. citizen and do not require a work visa.
 - 🎓 Completed my Bachelor's in Data Science from University of San Francisco in 2021. Starting my Master's in Data Science at UT Austin in August 2024.
-- 💼 3+ years of experience in data engineering and data visualization, working with tools like Azure Data Factory, SQL, PowerBI, and Python.
+- 💼 3+ years of experience in developing ETL pipelines, dashboards, and APIs through tools like Azure Data Factory, SQL, PowerBI, and Python.
 - 🏀 Currently developing a computer vision and deep learning-based system to classify offensive and defensive basketball plays.
 - 📊 Skilled in predictive modeling, ethical data visualizations, time series analysis, multi-object tracking.
 
@@ -16,8 +16,8 @@ I'm always eager to learn new things and explore cutting-edge technologies.
 
 - **Programming Languages:** Python, SQL, R
 - **Statistical Analysis:** Hypothesis Testing, ANOVA, Probability distributions, Multivariate Analysis
-- **Machine Learning:** Supervised and Unsupervised learning algorithms, Computer Vision, 2D/Time Series based neural networks
-- **Data Engineering:** ETL Pipelines, Data Governance
+- **Machine Learning:** Supervised and Unsupervised learning algorithms, Computer Vision, 2D+Time based neural networks
+- **Data Engineering:** ETL Pipelines (Azure Data Factory, AWS), Data Governance
 - **Visualization Tools:** Power BI, Tableau, Python
 
 ## Let's Connect!
