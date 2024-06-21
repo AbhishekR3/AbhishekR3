@@ -17,8 +17,9 @@ I'm always eager to learn new things and explore cutting-edge technologies.
 - **Programming Languages:** Python, SQL, R
 - **Statistical Analysis:** Hypothesis Testing, ANOVA, Probability distributions, Multivariate Analysis
 - **Machine Learning:** Supervised and Unsupervised learning algorithms, Computer Vision, 2D+Time based neural networks
-- **Data Engineering:** ETL Pipelines (Azure Data Factory, AWS), Data Governance
+- **Data Engineering:** ETL Pipelines (Azure Data Factory, AWS), SQL/NoSQL, Cloud Storage (Azure Blob, S3), Data Lake (ADLS, Databricks), Data Governance
 - **Visualization Tools:** Power BI, Tableau, Python
+
 
 ## Let's Connect!
 
