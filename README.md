@@ -6,7 +6,7 @@ I'm always eager to learn new things and explore cutting-edge technologies.
 
 ## About Me
 
-- 🌐 Based in the Bay Area, but I also have strong roots in Tamil Nadu, India. For those inquiring, I am a U.S. citizen and do not require a work visa.
+- 🌐 Based in the Bay Area
 - 🎓 Completed my Bachelor's in Data Science from University of San Francisco in 2021. Starting my Master's in Data Science at UT Austin in August 2024.
 - 💼 3+ years of experience in developing ETL pipelines, dashboards, and APIs through tools like Azure Data Factory, SQL, PowerBI, and Python.
 - 🏀 Currently developing a computer vision and deep learning-based system to classify offensive and defensive basketball plays.
