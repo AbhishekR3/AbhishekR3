@@ -7,8 +7,8 @@ I'm always eager to learn new things and explore cutting-edge technologies.
 ## About Me
 
 - 🌐 Based in the Bay Area
-- 🎓 Completed my Bachelor's in Data Science from University of San Francisco in 2021. Started my Master's in Data Science at UT Austin in August 2024.
-- 💼 4+ years of experience in developing ETL pipelines, dashboards, and APIs through tools like Azure Data Factory, SQL, PowerBI, and Python.
+- 🎓 Completed my Bachelor's in Data Science from University of San Francisco in 2021. Completed my Master's in Data Science at UT Austin in 2025.
+- 💼 5+ years of experience in developing ETL pipelines, dashboards, and APIs through tools like Azure Data Factory, SQL, PowerBI, and Python.
 - 🏀 Currently developing a computer vision and deep learning-based system to classify offensive and defensive basketball plays.
 - 📊 Skilled in predictive modeling, ethical data visualizations, time series analysis, multi-object tracking.
 
